@@ -1,12 +1,14 @@
+// To view whole color palette, visit the following webpage
+// https://coolors.co/f72585-b5179e-7209b7-560bad-480ca8-3a0ca3-3f37c9-4361ee-4895ef-4cc9f0
 module.exports = [
-	'#01888C', // teal
-  '#FC7500', // bright orange
-  '#034F5D', // dark teal
-  '#F73F01', // orangered
-  '#FC1960', // magenta
-  '#C7144C', // raspberry
-  '#F3C100', // goldenrod
-  '#1598F2', // lightning blue
-  '#2465E1', // sail blue
-  '#F19E02', // gold
+	'#F72585', // flickr pink
+  '#B5179E', // byzantine
+  '#7209B7', // purple (light)
+  '#560BAD', // purple (dark)
+  '#480CA8', // trypan blue (light)
+  '#3A0CA3', // trypan blue (dark)
+  '#3F37C9', // persian blue
+  '#4361EE', // ultramarine blue
+  '#4895EF', // dodger blue
+  '#4CC9F0', // vivid sky blue
 ]
