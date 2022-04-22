@@ -1,9 +1,14 @@
 // To view whole color palette, visit the following webpage
-// https://coolors.co/5c58b6-b957ce-5994ce-3a4e93-d9e0fc
+// https://coolors.co/482bff-007aff-00b2ff-00af92-00a862-e84747-ff5107-ffa800-ffdd87-faf9f8
 module.exports = [
-  '#5C58B6', // liberty
-  '#B957CE', // medium orchid
-  '#5994CE', // blue gray
-  '#3A4E93', // Y in Mn Blue
-  '#D9E0FC', // lavender web
+  '#482BFF', // han purple
+  '#007AFF', // azure
+  '#00B2FF', // blue jeans
+  '#00AF92', // jungle green
+  '#00A862', // GO green
+  '#E84747', // imperial red
+  '#FF5107', // international orange
+  '#FFA800', // chrome yellow
+  '#FFDD87', // jasmine
+  '#FAF9F8', // cultured
 ]
